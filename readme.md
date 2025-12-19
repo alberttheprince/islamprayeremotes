@@ -9,8 +9,6 @@ This includes all positions for traditional Sunni Salat and, in addition, some (
 
 This pack also includes two Jewish prayer poses and four Christian prayer poses.
 
-:star_and_crescent: :star_of_david: :cross: 
-
 ---
 
 Need the dict and name for your emote system?
@@ -176,5 +174,6 @@ If you are on an older version or your own custom version, add the below to your
 },
 
 ```
+
 
 
